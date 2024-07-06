@@ -1,0 +1,24 @@
+.jumbotron {
+  background-color: #f0f0f0;
+  padding: 2rem 1rem;
+}
+
+.service-box {
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.service-box img {
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 1rem 0;
+}
